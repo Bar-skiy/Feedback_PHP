@@ -2,5 +2,11 @@
 Feedback via mailbox  
 http://f0730730.xsph.ru/  
 
-Used technologies: HTML; PHP; Ajax; JavaScript; Bootstrap
-![пример на сайте](https://user-images.githubusercontent.com/110903517/196057758-1bd64733-6d12-426c-a6c5-e0c56de169ae.png)
+Used technologies: HTML; PHP; Ajax; JavaScript; Bootstrap  
+  
+ ![Снимок экрана 2022-10-17 000434](https://user-images.githubusercontent.com/110903517/196058768-62043c6a-c5c0-4e30-9a3a-f51321fee577.png)
+ 
+
+  
+  
+
