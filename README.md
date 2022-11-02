@@ -1,6 +1,6 @@
 # Feedback_PHP
 Feedback via mailbox  
-http://f0730730.xsph.ru/  
+http://f0728438.xsph.ru/  
 
 Used technologies: HTML; PHP; Ajax; JavaScript; Bootstrap  
   
